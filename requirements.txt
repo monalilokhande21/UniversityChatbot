@@ -1,0 +1,11 @@
+sentence-transformers==2.2.2
+langchain
+flask
+langchain-experimental
+flask
+langchain
+langchain-community
+python-dotenv
+transformers
+torch
+langchain-huggingface
